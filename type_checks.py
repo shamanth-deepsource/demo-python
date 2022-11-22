@@ -1,6 +1,7 @@
-# Resolve 1
-import os
-import sys
+# Raise PR
+# Raise issue 2
+
+
 
 def greet_all(names: list[str]) -> None:
     for name in names:
