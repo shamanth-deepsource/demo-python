@@ -1,6 +1,4 @@
-# Resolve 1
-import os
-import sys
+print("Testing pull_request->latest_analysis_run
 
 def greet_all(names: list[str]) -> None:
     for name in names:
